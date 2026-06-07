@@ -1,1 +1,11 @@
 /* app global css */
+
+:root {
+  --q-primary: #00a08b;
+  --q-secondary: #002c21;
+  --q-accent: #7b1fa2;
+  --q-positive: #00a08b;
+  --q-negative: #ff0000;
+  --q-warning: #f9a825;
+  --q-info: #476100;
+}
